@@ -23,7 +23,7 @@
 							<a class="main-nav__link" href="#offer">{{ __("Offers") }}</a>
 						</li>
 						<li class="main-nav__item">
-							<a class="main-nav__link" href="#reservation">{{ __("Reservation") }}</a>
+							<a class="main-nav__link" href="https://webapp.buukan.com/2">{{ __("Reservation") }}</a>
 						</li>
 						<li class="main-nav__item">
 							<a class="main-nav__link" href="#faq">{{ __("FAQ") }}</a>
@@ -48,7 +48,7 @@
 				<div class="wrapper">
 					<h1 class="hero__title">{{ __("THE ONLY PERMANENT HAIR REMOVAL METHOD") }}</h1>
 					<p class="hero__text">{{ __("/with a guarantee and results") }}</p>
-					<a href="webapp.buukan.com/2" class="hero__reservation-button" target="_blank">{{ __("RESERVATION") }}</a>
+					<a href="https://webapp.buukan.com/2" class="hero__reservation-button" target="_blank">{{ __("RESERVATION") }}</a>
 				</div>
 			</section>
 			<section class="offer" id="offer">
@@ -147,7 +147,7 @@
 					<div class="click-and-save__box">
 						<h2 class="click-and-save__title">{{ __("CLICK AND SAVE:") }}</h2>
 						<p class="click-and-save__offer">{{ __("10% FOR FIRST WAXING SESSION, 5% FOR EVERY MARK!") }}</p>
-						<a href="#reservation" class="click-and-save__reservation-button" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
+						<a href="https://webapp.buukan.com/2" class="click-and-save__reservation-button" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
 					</div>
 				</div>
 			</section>
@@ -276,7 +276,7 @@
 					<iframe class="footer__map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2607.0065503389715!2d16.611655300000002!3d49.2004353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4712945bfa5a4203%3A0x4e00c7f0b99e4e9b!2zTS4gSG9yw6Frb3bDqSAxOTUyLzUsIDYwMiAwMCBCcm5vLXN0xZllZC3EjGVybsOhIFBvbGU!5e0!3m2!1sru!2scz!4v1702306686404!5m2!1sru!2scz" width="300" height="200" style="border: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					<a class="footer__logo" href="https://instagram.com/katuska_electro" target="_blank">@katuska_electro</a>
 				</address>
-				<a class="footer__reservation-button" href="#reservation" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
+				<a class="footer__reservation-button" href="https://webapp.buukan.com/2" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
 			</div>
 		</footer>
 
