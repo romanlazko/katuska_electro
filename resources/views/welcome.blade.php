@@ -47,7 +47,7 @@
 			<section class="hero">
 				<div class="wrapper">
 					<h1 class="hero__title">{{ __("THE ONLY PERMANENT HAIR REMOVAL METHOD") }}</h1>
-					<p class="hero__text">{{ __("/with a guarantee and results") }}</p>
+					<p class="hero__text">{{ __("/guaranteed results") }}</p>
 					<a href="https://webapp.buukan.com/2" class="hero__reservation-button" target="_blank">{{ __("RESERVATION") }}</a>
 				</div>
 			</section>
@@ -96,16 +96,16 @@
 					<div class="reasons__container">
 						<ul class="reasons__list style-list">
 							<li class="reasons__item">
-								<span class="reasons__text--bold">{{ __("Permanent result:") }}</span> 
-								{{ __("This method guarantees complete hair removal as it destroys the hair follicle.") }}
+								<span class="reasons__text--bold">{{ __("Permanent results:") }}</span> 
+								{{ __("destroys the hair follicle for complete hair removal.") }}
 							</li>
 							<li class="reasons__item">
 								<span class="reasons__text--bold">{{ __("Removes any hair:") }}</span> 
-								{{ __("regardless of its structure or colour - downy, grey, red, thick and thin.") }}
+								{{ __("effective on all hair types - fine, grey, red, thick, or thin.") }}
 							</li>
 							<li class="reasons__item">
-								<span class="reasons__text--bold">{{ __("Ideal for different areas:") }}</span> 
-								{{ __("it is a jewellery technique - each hair is removed individually. Hair can be removed absolutely anywhere, including single hairs on the face.") }}
+								<span class="reasons__text--bold">{{ __("Ideal for any area:") }}</span> 
+								{{ __("it is a jewellery technique allowowing each hair to be removed individually. Hair can be removed absolutely anywhere including single hairs on the face.") }}
 							</li>
 						</ul>
 						<picture class="reasons__box">
@@ -125,14 +125,14 @@
 						<ul class="reasons__list style-list">
 							<li class="reasons__item">
 								<span class="reasons__text--bold">{{ __("Long-lasting effect:") }}</span> 
-								{{ __("Removes hair from the root, ensuring smoothness for a longer period than shaving.") }}
+								{{ __("removes hair from the root, ensuring smoothness for a longer period than shaving.") }}
 							</li>
 							<li class="reasons__item"><span class="reasons__text--bold">{{ __("Effective removal:") }}</span> 
-								{{ __("Treats a large area of skin at a time, making the process faster.") }}
+								{{ __("treats a large area of skin at a time, making the process faster.") }}
 							</li>
 							<li class="reasons__item">
-								<span class="reasons__text--bold">{{ __("Cost:") }}</span> 
-								{{ __("Waxing is cheaper than electro-epilation, but allows you to feel smooth for up to 3 weeks.") }}
+								<span class="reasons__text--bold">{{ __("Affordability:") }}</span> 
+								{{ __("more cost-effective than electro-epilation with up to 3 weeks of smoothness.") }}
 							</li>
 						</ul>
 						<picture class="reasons__box">
@@ -145,8 +145,8 @@
 			<section class="click-and-save" id="click-and-save">
 				<div class="wrapper">
 					<div class="click-and-save__box">
-						<h2 class="click-and-save__title">{{ __("CLICK AND SAVE:") }}</h2>
-						<p class="click-and-save__offer">{{ __("10% FOR FIRST WAXING SESSION, 5% FOR EVERY MARK!") }}</p>
+						<h2 class="click-and-save__title">{{ __("SPECIAL OFFER:") }}</h2>
+						<p class="click-and-save__offer">{{ __("10% FOR FIRST WAXING SESSION,5% FOR INSTAGRAM TAG IN STORIES OR POST POST!") }}</p>
 						<a href="https://webapp.buukan.com/2" class="click-and-save__reservation-button" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
 					</div>
 				</div>
@@ -154,16 +154,16 @@
 			<section class="sterilisation" id="sterilisation">
 				<div class="wrapper">
 					<div class="sterilisation__title-wrapper">
-						<h2 class="sterilisation__title">{{ __("STERILISATION") }} <span class="sterilisation__title--zone">{{ __("/zone/") }}</span></h2>
+						<h2 class="sterilisation__title">{{ __("STERILIZATION PROCESS") }} <span class="sterilisation__title--zone">{{ __("/zone/") }}</span></h2>
 					</div>
 					<ol class="sterilisation__list style-list">
 						<li class="sterilisation__list-item">
 							<p class="sterilisation__step">{{ __("step 1") }}</p>
-							<p class="sterilisation__desc">{{ __("The tweezers are sent to a special solution after each use.") }}</p>
+							<p class="sterilisation__desc">{{ __("Tweezers are immersed in a specialized solution after each use.") }}</p>
 						</li>
 						<li class="sterilisation__list-item">
 							<p class="sterilisation__step">{{ __("step 2") }}</p>
-							<p class="sterilisation__desc">{{ __("Afterwards it is washed with a special brush under running water.") }}</p>
+							<p class="sterilisation__desc">{{ __("Afterwards they are scrubbed with a special brush under running water.") }}</p>
 						</li>
 						<li class="sterilisation__list-item">
 							<p class="sterilisation__step">{{ __("step 3") }}</p>
@@ -171,7 +171,7 @@
 						</li>
 						<li class="sterilisation__list-item">
 							<p class="sterilisation__step">{{ __("step 4") }}</p>
-							<p class="sterilisation__desc">{{ __("The instruments are packed in kraft bags and sterilised by dry hot air heated to a temperature of 180°C for 60 minutes.") }}</p>
+							<p class="sterilisation__desc">{{ __("Finally, all instruments are sealed in kraft bags and sterilized with dry hot air at 180°C for 60 minutes.") }}</p>
 						</li>
 					</ol>
 				</div>
@@ -182,19 +182,19 @@
 					<dl class="faq__list">
 						<div class="faq__item">
 							<dt class="faq__question">{{ __("Is electroepilation painful?") }}</dt>
-							<dd class="faq__answer">{{ __("The level of pain can vary depending on individual skin sensitivity. Many people describe the sensation as a slight tingling. Using numbing creams or gels can help reduce discomfort.") }}</dd>
+							<dd class="faq__answer">{{ __("Pain levels vary by individual. Most feel only a slight tingling. Numbing creams can reduce discomfort.") }}</dd>
 						</div>
 						<div class="faq__item">
 							<dt class="faq__question">{{ __("How much time does one electroepilation session typically take?") }}</dt>
-							<dd class="faq__answer">{{ __("The duration of an electroepilation session depends on the area being treated. For example, removing hair from the upper lip may take only a few minutes, while treating the legs might take an hour or more.") }}</dd>
+							<dd class="faq__answer">{{ __("Session time varies by area. Upper lip may take minutes, while legs could take over an hour.") }}</dd>
 						</div>
 						<div class="faq__item">
 							<dt class="faq__question">{{ __("How should I prepare for an electroepilation session?") }}</dt>
-							<dd class="faq__answer">{{ __("It is recommended to have hair in the targeted area not too short. Avoid sunburn and self-tanning products before the procedure. Also, refrain from using creams or oils on the skin prior to the session") }}</dd>
+							<dd class="faq__answer">{{ __("It is recommended to have hair in the targeted area not too short. Avoid sunburns, self-tanning products, and skin creams/oils before the session. Also, refrain from using creams or oils on the skin prior to the session.") }}</dd>
 						</div>
 						<div class="faq__item">
 							<dt class="faq__question">{{ __("How often should I undergo electroepilation to achieve the best results?") }}</dt>
-							<dd class="faq__answer">{{ __("The recommended frequency can vary, but typically starting with sessions every one or two weeks is advised, gradually spacing them out as hair growth diminishes.") }}</dd>
+							<dd class="faq__answer">{{ __("The recommended frequency can vary, but typically starting with sessions every 1-2 weeks is advised, gradually spacing them out as hair growth diminishes.") }}</dd>
 						</div>
 						<div class="faq__item">
 							<dt class="faq__question">{{ __("What are the contraindications for electroepilation?") }}</dt>
@@ -271,8 +271,8 @@
 				<address class="footer__contacts" id="contacts">
 					<h2 class="footer__title">{{ __("CONTACTS") }}</h2>
 					<p class="footer__location">BRNO, CZECH REPUBLIC</p>
-					<p class="footer__address">Milady Horákové 5, Brno 602 00</p>
-					<p class="footer__floor">{{ __("2nd floore") }}</p>
+					<p class="footer__address">Milady Horákové 25, Brno 602 00</p>
+					<p class="footer__floor">{{ __("2nd floor") }}</p>
 					<iframe class="footer__map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2607.0065503389715!2d16.611655300000002!3d49.2004353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4712945bfa5a4203%3A0x4e00c7f0b99e4e9b!2zTS4gSG9yw6Frb3bDqSAxOTUyLzUsIDYwMiAwMCBCcm5vLXN0xZllZC3EjGVybsOhIFBvbGU!5e0!3m2!1sru!2scz!4v1702306686404!5m2!1sru!2scz" width="300" height="200" style="border: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					<a class="footer__logo" href="https://instagram.com/katuska_electro" target="_blank">@katuska_electro</a>
 				</address>
