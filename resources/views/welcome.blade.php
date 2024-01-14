@@ -146,7 +146,7 @@
 				<div class="wrapper">
 					<div class="click-and-save__box">
 						<h2 class="click-and-save__title">{{ __("SPECIAL OFFER:") }}</h2>
-						<p class="click-and-save__offer">{{ __("10% FOR FIRST WAXING SESSION,5% FOR INSTAGRAM TAG IN STORIES OR POST POST!") }}</p>
+						<p class="click-and-save__offer">{{ __("10% FOR FIRST WAXING SESSION,5% FOR INSTAGRAM TAG IN STORIES OR POST!") }}</p>
 						<a href="https://webapp.buukan.com/2" class="click-and-save__reservation-button" target="_blank">{{ __("MAKE A RESERVATION") }}</a>
 					</div>
 				</div>
